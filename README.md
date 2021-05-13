@@ -7,7 +7,7 @@
 ![Github languages used](https://img.shields.io/github/languages/count/aj-shivali/hackerrankproblems)
 ![Github most used language](https://img.shields.io/github/languages/top/aj-shivali/hackerrankproblems) 
 
-<p>
+<p align="center">
   <img scr="https://tenor.com/7o4w.gif">
 </p>
 
