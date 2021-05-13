@@ -2,7 +2,7 @@
 
 # This repository includes Problems from <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/aj-shivali/hackerrankproblems) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Anmol53/Hackerrank-Problem-Solving?color=%23ff9900)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/aj-shivali/hackerrankproblems?color=%23ff9900)
 ![License Badge](https://img.shields.io/github/license/Anmol53/Hackerrank-Problem-Solving)
 ![Forks Badge](https://img.shields.io/github/forks/Anmol53/Hackerrank-Problem-Solving)
 ![Stars Badge](https://img.shields.io/github/stars/Anmol53/Hackerrank-Problem-Solving)
