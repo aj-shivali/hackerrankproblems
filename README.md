@@ -8,7 +8,7 @@
 ![Github most used language](https://img.shields.io/github/languages/top/aj-shivali/hackerrankproblems) 
 
 <p align="center">
-  <img scr="https://media.tenor.com/images/df14ea3af47ab5d81c11086f257b02fd/tenor.gif" >
+  <img scr="https://media1.tenor.com/images/786e6c1d63b24d53a872f467c81547e8/tenor.gif" >
 </p>
 
 ### Why this repository?
