@@ -3,3 +3,4 @@
 # This repository includes Problems from <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 
 ### Why this repository?
+This repository is for personal learning and future references. If it could be of any help to anyone, I would be more than happy.
