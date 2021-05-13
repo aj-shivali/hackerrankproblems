@@ -7,10 +7,7 @@
 ![Github languages used](https://img.shields.io/github/languages/count/aj-shivali/hackerrankproblems)
 ![Github most used language](https://img.shields.io/github/languages/top/aj-shivali/hackerrankproblems) 
 
-<p align="center">
   <img scr="https://media1.tenor.com/images/786e6c1d63b24d53a872f467c81547e8/tenor.gif" >
-</p>
-
 ### Why this repository?
 This repository is for personal learning and future references. If it could be of any help to anyone, I would be more than happy.
 
