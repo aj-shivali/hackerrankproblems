@@ -1,6 +1,6 @@
 <p align="center"><a href="https://www.hackerrank.com/aj_shivali"><img src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg" height="200"></a></p>
 
-# # Problem Solving on <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+## Problem Solving on <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/aj-shivali/hackerrankproblems) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/aj-shivali/hackerrankproblems) 
 ![Github contributor](https://img.shields.io/github/contributors/aj-shivali/hackerrankproblems)
