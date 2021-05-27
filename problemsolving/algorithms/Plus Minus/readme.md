@@ -42,3 +42,12 @@ The second line contains _n_ space-separated integers that describe _arr[n]_.
 6               arr[] size n = 6
 -4 3 -9 0 4 1   arr = [-4, 3, -9, 0, 4, 1]
 </code></pre>
+
+**Sample Output**
+<pre><code>0.500000
+0.333333
+0.166667</code></pre>
+
+**Explanation**
+There are **3** positive numbers, **2** negative numbers, and **1** zero in the array.
+The proportions of occurrence are positive: **3/6 = 0.500000**, negative: **2/6 = 0.333333**  and zeros: **1/6 = 0.166667**.
