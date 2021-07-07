@@ -12,6 +12,6 @@ This repository is for personal learning and future references. If it could be o
 
 ***"Please try to solve the problem yourself first, only then proceed to find the solution. BE FAITHFUL TO YOURSELF."***
 
-<p align="center"><img src="https://media1.tenor.com/images/786e6c1d63b24d53a872f467c81547e8/tenor.gif" height="200"></p>
+<p align="center"><img src="https://media1.tenor.com/images/786e6c1d63b24d53a872f467c81547e8/tenor.gif" height="200"></p> 
 
 
