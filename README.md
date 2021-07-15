@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/aj-shivali/hackerrankproblems) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/aj-shivali/hackerrankproblems) 
 ![Github contributor](https://img.shields.io/github/contributors/aj-shivali/hackerrankproblems)
-![Github languages used](https://img.shields.io/github/languages/count/aj-shivali/hackerrankproblems)
+![Github languages used](https://img.shields.io/github/languages/count/aj-shivali/hackerrankproblems) 
 ![Github most used language](https://img.shields.io/github/languages/top/aj-shivali/hackerrankproblems)   
  
 ### Why this repository?
