@@ -8,7 +8,7 @@
 ![Github most used language](https://img.shields.io/github/languages/top/aj-shivali/hackerrankproblems)    
   
 ### Why this repository?
-This repository is for personal learning and future references. If it could be of any help to anyone, I would be more than happy. Do not forget to press the ⭐️.
+This repository is for personal learning and future references. If it could be of any help to anyone, I would be more than happy. Do not forget to press the ⭐️. 
 
 ***"Please try to solve the problem yourself first, only then proceed to find the solution. BE FAITHFUL TO YOURSELF."***
 
